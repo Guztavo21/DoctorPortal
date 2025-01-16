@@ -3,17 +3,17 @@
   line-height: 1.5;
   font-weight: 400;
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  /* color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87); */
   background-color: #242424;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 /** INICIO: SIDEBAR **/
-
 .sidebar {
   color: #fff
 }
@@ -36,15 +36,15 @@
   background: rgba(28, 17, 41, 0.88);
 }
 
-.menu-bar {
-  height: 88vh;
+/* .menu-bar {
+  height: 80vh;
   margin-top: 2rem;
   display: flex;
   flex-direction: column;
   gap: 15px;
   font-size: 1rem;
   position: relative;
-}
+} */
 
 .toggle-theme-btn {
   position: relative;
