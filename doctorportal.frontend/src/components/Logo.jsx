@@ -1,4 +1,3 @@
-import React from "react";
 import { GiMaterialsScience } from "react-icons/gi";
 const Logo = () => {
 

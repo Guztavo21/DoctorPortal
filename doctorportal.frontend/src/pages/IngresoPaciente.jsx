@@ -1,5 +1,5 @@
 // src/pages/IngresoPaciente.js
-import React, { useState } from "react";
+import { useState } from "react";
 import { Input, Button, Form, message, Row, Col, Select, Radio } from "antd";
 
 const IngresoPaciente = () => {
